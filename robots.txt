@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harlingenpestcontrolco.com/sitemap.xml
